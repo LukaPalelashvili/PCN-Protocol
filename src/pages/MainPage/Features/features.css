@@ -1,0 +1,239 @@
+.header-f-fix {
+    grid-gap: 5px !important
+}
+
+.feature-border-right {
+    border-right: 4px solid rgb(19, 2, 120);
+  
+}
+
+.feature-border-bottom {
+    border-bottom: 4px solid rgb(19, 2, 120);
+    
+}
+
+.feature-border-top {
+    border-top: 4px solid rgb(19, 2, 120);
+    margin-top: -4px;
+}
+
+.feature-border-left {
+    border-left: 4px solid rgb(19, 2, 120);
+    margin-left: -4px;
+}
+
+.feature-block-3-fix {
+    margin-left: 17%;
+}
+
+.footer-middle{
+    margin-top: -172px !important;
+    position: relative;
+    /* width: 100%; */
+    background-size: cover;
+}
+ 
+ @media screen and (max-width: 767.5px) {
+    .feature-border-right, .feature-border-bottom, .feature-border-top,
+    .feature-border-left  {
+        border: none !important; 
+    }
+}
+
+@media screen and (max-width: 767.5px) {
+    .feature-border-bottom  {
+        padding-top: 2rem !important;
+    }
+}
+
+
+
+@media screen and (max-width: 767.5px) {
+    .feature-border-top  {
+        margin-top: -75px !important;
+    }
+}
+
+@media screen and (max-width: 767.5px) {
+    .feature-none {
+        margin-left: 20px !important;
+    }
+}
+
+
+@media screen and (max-width: 767.5px) {
+    .feature-none3 {
+        margin-left: -10px;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .iframe-video-res  {
+        width: 356px;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .responsive-up {
+        margin-top: -150px !important;
+    }
+}
+
+
+@media screen and (max-width: 510px) {
+    .feature-none1  {
+        margin-left: -10px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    body, caption  {
+        text-align: center !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    body, caption  {
+        text-align: center !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .footer-middle {
+        margin-top: -130px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .dedicated {
+        width: 320px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .walletAccounts {
+        width: 360px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .accGenFirst {
+        width: 370px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .accGenMa-0 {
+        margin-left: 0px !important;
+    }
+}
+
+
+@media screen and (max-width: 510px) {
+    .accGenbottom {
+        padding-bottom: 12.8px !important;
+        padding-left: 24px !important;
+        padding-right: 24px !important;
+        padding-top: 12.8px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .SecCrypFirst{
+        width: 340px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .SecCrypFirst{
+        width: 340px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .accGenbottom2 {
+        padding: 1rem 2rem !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .keyPassFirst {
+        width: 340px !important;
+    }
+}
+@media screen and (max-width: 510px) {
+    .keyPassFIMG {
+        width: 340px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .web3First {
+        width: 370px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .web3Sec {
+        width: 200px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .web3BF {
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width: 510px) {
+    .web3IMGe    {
+        /* width: 320px !important; */
+    }
+}
+@media screen and (max-width: 510px) {
+    .web3IMGe2   {
+        width: 300px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .SeCBut1   {
+        margin-left: 42px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .SecSecondFix   {
+        width: 350px !important;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .web3BF2 {
+        margin-left: 60px !important;
+    }
+}
+
+
+@media screen and (max-width: 380px) {
+    .footer-middle {
+        margin-top: -125px !important;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .resp-border {
+        border-top: 1px solid rgb(33, 37, 41)
+    }
+}
+
+@media screen and (min-width: 990px) {
+    .navbar .dropdown-menu a::before {
+        display: none;
+    }
+}
+
+/* @media screen and (min-width:500px max-width: 602px) {
+    .footer-middle {
+        margin-top: -138px !important;
+    }
+} */

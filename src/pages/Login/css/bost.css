@@ -1,0 +1,275 @@
+.p-5a {
+    padding: 56px;
+}
+
+.px-5a {
+    padding-left: 56px;
+    padding-right: 56px
+}
+
+.dark-layout .auth-wrapper .auth-bg {
+    background-color: #283046 !important;
+  }
+
+  .p-lg-5a {
+      padding: 56px;
+  }
+
+  .px-2a {
+    padding-right: 21px !important;
+    padding-left: 21px !important;
+  }
+
+  .px-xl-2a {
+    padding-left: 21px;
+    padding-right: 21px
+  }
+
+  .fw-bolda {
+    font-weight: 500 !important;
+  }
+
+  .mb-1a {
+    margin-bottom: 14px
+  }
+
+  .card-title {
+      margin-bottom: 21px;
+  }
+
+  .mb-2a{
+    margin-bottom: 21px;
+  }
+
+  .card-text {
+    color: rgb(110, 107, 123);
+    line-height: 21px;
+  }
+
+  .mt-2a {
+    margin-top: 21px;
+  }
+
+  .form-labela {
+    margin-bottom: 3.9998px;
+    font-size: 11.998px;
+  }
+
+  .form-controla {
+    display: block;
+    width: 100%;
+    padding-bottom: 7.994px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 7.994px;
+    line-height: 20.3px;
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #6e6b7b;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d8d6de;
+    appearance: none;
+    border-radius: 4.998px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+
+  .new-input {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  .login-buttonA {
+    color: #7367f0;
+    text-decoration: none;
+  }
+
+  .small-pasFo {
+    color: rgb(115, 103, 240);
+    direction: ltr;
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-size: 11.998px;
+    font-weight: 400;
+    letter-spacing: 0.14px;
+    line-height: 17.4px;
+    text-align: start;
+  }
+
+  .input-groupa {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .form-controla::placeholder {
+    color: #b9b9c3;
+    opacity: 1;
+  }
+
+
+  .input-groupa:not(.has-validation) > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu), .input-groupa:not(.has-validation) > .dropdown-toggle:nth-last-child(n+3) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+
+  .dark-layout input.form-controla:not(:focus), .dark-layout select.form-selecta:not(:focus), .dark-layout textarea.form-controla:not(:focus) {
+    border-color: #404656;
+  }
+  .dark-layout input.form-controla, .dark-layout select.form-selecta, .dark-layout textarea.form-controla {
+    background-color: #283046;
+    color: #b4b7bd;
+  }
+
+  .input-groupa > .form-controla, .input-groupa > .form-selecta {
+    position: relative;
+    flex: 1 1 auto;
+    width: 1%;
+    min-width: 0;
+  }
+
+  input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  .input-groupa > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-left: -1px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  .input-group-texta {
+    display: flex;
+    align-items: center;
+    padding: 7.994px 14px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #6e6b7b;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #fff;
+    border: 1px solid #d8d6de;
+      border-top-color: rgb(216, 214, 222);
+      border-right-color: rgb(216, 214, 222);
+      border-bottom-color: rgb(216, 214, 222);
+      border-left-color: rgb(216, 214, 222);
+    border-radius: 4.998px;
+  }
+
+  .feather, [data-feather] {
+    height: 14px;
+    width: 14px;
+    display: inline-block;
+  }
+
+  .form-checka {
+    display: block;
+    min-height: 20.3px;
+    padding-left: 24.99px;
+    margin-bottom: 0;
+  }
+
+  .form-check-inputa[type="checkbox"] {
+    border-radius: 3px;
+  }
+
+  .form-checka .form-check-inputa {
+    float: left;
+    margin-left: -24.99px;
+  }
+
+  .form-check-inputa {
+    width: 17.99px;
+    height: 17.99px;
+    margin-top: 1.155px;
+    vertical-align: top;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: 1px solid #d8d6de;
+      border-top-color: rgb(216, 214, 222);
+      border-right-color: rgb(216, 214, 222);
+      border-bottom-color: rgb(216, 214, 222);
+      border-left-color: rgb(216, 214, 222);
+    appearance: none;
+    color-adjust: exact;
+  }
+
+  .form-check-labela {
+    cursor: pointer;
+  }  
+
+  label {
+    display: inline-block;
+  }
+
+  ::-moz-focus-inner {
+    padding: 0;
+    border-style: none;
+  }
+
+  button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
+    cursor: pointer;
+  }
+  
+  .btn-primarya {
+    color: #fff !important;
+    background-color: #7367f0 !important;
+    border-color: #7367f0 !important;
+  }
+
+  .btna {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1;
+    color: #6e6b7b;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+      border-top-color: transparent;
+      border-right-color: transparent;
+      border-bottom-color: transparent;
+      border-left-color: transparent;
+    padding: 11.004px 21px;
+    font-size: 14px;
+    border-radius: 5.012px;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, background 0s, border 0s;
+  }
+
+  button, [type="button"], [type="reset"], [type="submit"] {
+    -webkit-appearance: button;
+  }
+  button, select {
+    text-transform: none;
+  }
+  input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  .my-2a {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important;
+  }
+
+  .feather, [data-feather] {
+    height: 14px;
+    width: 14px;
+    display: inline-block;
+  }
+

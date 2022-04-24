@@ -1,0 +1,77 @@
+.auth-wrapper.auth-cover {
+    align-items: flex-start;
+  }
+  .auth-wrapper {
+    display: flex;
+    flex-basis: 100%;
+    min-height: 100vh;
+    min-height: calc(var(--vh, 1vh) * 100);
+    width: 100%;
+  }
+
+  .auth-wrapper.auth-cover .auth-inner {
+    height: 100vh;
+    overflow-y: auto;
+    height: calc(var(--vh, 1vh) * 100);
+  }
+  .auth-wrapper .auth-inner {
+    width: 100%;
+  }
+  .m-0 {
+    margin: 0 !important;
+  }
+
+  .auth-wrapper.auth-cover .brand-logo {
+    position: absolute;
+    top: 28px;
+    left: 28px;
+    margin: 0;
+    z-index: 1;
+    justify-content: unset;
+  }
+  .auth-wrapper .brand-logo {
+    display: flex;
+    justify-content: center;
+    margin: 14px 0 28px 0;
+  }
+
+  .auth-wrapper .brand-logo .brand-text {
+    font-weight: 600;
+  }
+
+  .auth-wrapper .auth-footer-btn .btna:not(:last-child) {
+    margin-right: 14px;
+  }
+  .auth-wrapper .auth-footer-btn .btna {
+    padding: 8.4px !important;
+  }
+
+  .auth-wrapper .auth-footer-btn .btna {
+    padding: 8.4px !important;
+  }
+
+  .btna-twitter {
+    color: #22292f !important;
+    background-color: #55acee !important;
+    border-color: transparent !important;
+    color: #fff !important;
+    border: none !important;
+  }
+
+  .btna-google {
+    color: #fff !important;
+    background-color: #dd4b39 !important;
+    border-color: transparent !important;
+    color: #fff !important;
+    border: none !important;
+  }
+
+  .btna-github {
+    color: #fff !important;
+    background-color: #444444 !important;
+    border-color: transparent !important;
+    color: #fff !important ;
+    border: none !important;
+  }
+
+
